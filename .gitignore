@@ -139,7 +139,17 @@ cython_debug/
 
 #KC Folder
 KC/
+Javascript/
+Bootstrap5/
+NodeJS/
+TypeScript/
 
 #VSCode Setting
 settings.json
 .DS_Store
+
+#compressed files
+*.pkl
+*.sqlite
+*.ssms_suo
+SQL/GIS/Notebooks/.vs/VSWorkspaceState.json
