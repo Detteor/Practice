@@ -137,16 +137,18 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-#KC Folder
+#Folders
 KC/
 Javascript/
 Bootstrap5/
 NodeJS/
 TypeScript/
+Flutter/
 
 #VSCode Setting
 settings.json
 .DS_Store
+._.DS_Store
 
 #compressed files
 *.pkl

@@ -88,7 +88,7 @@ if len(updatedParcels) > 0:
 
     for item in updatedParcels:
         text = text + str(item) + "\n"
-    text = text + "\nThank You, \r\nJohn Miller"
+    text = text + "\nThank You"
 
     ## Use MIMEMultipart to build email
     msg = MIMEMultipart()
